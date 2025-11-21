@@ -20,7 +20,7 @@ def run_experiment():
     m = 100 
 
     REPETITIONS = 100_000 
-    
+
     experimental = []
     theoretical = []
 
